@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/CHEW0203/jiesheng.github.io/blob/main/photo_2025-10-07_22-12-55.jpg" width="150" height="180" style="clip-path: circle(50% at 50% 50%); object-fit: cover;" />
+
+  <img src="https://github.com/user-attachments/assets/045b2832-da4d-4ab4-b4b2-9e63bb14da7c" width="150" height="180" style="clip-path: circle(50% at 50% 50%); object-fit: cover;" />
 </p>
 <h1 align="center">CHEW JIE SHENG</h1>
 
