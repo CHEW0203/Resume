@@ -35,16 +35,16 @@ _Life Science Student_ — CGPA: **4.00**
 ---
 
 ## 🏆 Achievements
-- 🥇 **Champion — CodeRush’25 UTM**  
+- 🥇 **Champion — [CodeRush’25 UTM](https://github.com/user-attachments/assets/e02eafdd-2b29-4b85-8c2c-e9e76d832645)**  
   - Strengthened programming and analytical thinking skills  
 
-- 💻 **Participant — Computing Open Day & Exhibition (CODE’25 UTM)**  
+- 💻 **Participant — [Ideathon 2025 UTM](https://github.com/user-attachments/assets/75c2a7aa-5c30-4a03-8a5d-855fed3fa191)**
   - Attended **Power BI** workshop focused on **data visualization** and analytics development  
 
-- 🧠 **Participant — Programming League National 2025**
+- 🧠 **Participant — [Programming League National 2025](https://github.com/user-attachments/assets/3764a833-8fd9-4183-a230-3ba75989f12e)**
   - Engaged in national-level competitive programming to enhance algorithmic thinking and teamwork skills
   
-- 🤖 **Participant — KitaHack Hackathon 2025**  
+- 🤖 **Participant — [KitaHack’25](https://github.com/yaotingchun/YaoHack)**  
   - Developed an **AI Speaking Coach** project aimed at improving public speaking skills through real-time feedback and speech analysis  
 
 ---
@@ -55,8 +55,5 @@ _Life Science Student_ — CGPA: **4.00**
 - Chinese  
 - Cantonese  
 
----
 
-## 💬 Quote
-> “Once determination is made, never give up until the goal is achieved.”
 
